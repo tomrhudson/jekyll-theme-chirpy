@@ -1,0 +1,11 @@
+---
+title:  "Summary of 2019-December"
+date:   2019-12-31 11:53:50 -0400
+categories:
+tags:
+---
+## Highlights
+- Earned 3 certifications through [DigitalMarketer](https://www.digitalmarketer.com)
+1. Certified Content Marketing Specialist
+2. Certified Customer Acquisition Specialist
+3. Community Management Specialist

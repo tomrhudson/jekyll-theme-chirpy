@@ -1,0 +1,13 @@
+---
+title:  "Summary of 2020-October"
+date:   2020-10-31 11:53:50 -0400
+categories:
+tags:
+---
+## Highlights
+- Attended a 5-day [rewilding intensive](https://micahmortali.com/rewilding/) in the Berkshires of Western Massachusetts
+- Completed my first Voyage with [Chingu](https://chingu.io) with a team of 2 other developers; the project can be [found here](https://github.com/chingu-voyages/v23-toucans-team-02). Live website of the project can be [found here](https://v23weather.netlify.app/).
+- Obtained ISO13485:2016 Certified Internal Auditor from [ASQ](https://asq.org)
+
+## Reading
+- [ ]

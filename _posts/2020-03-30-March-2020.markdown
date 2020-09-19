@@ -1,0 +1,16 @@
+---
+title:  "Summary of 2020-March"
+date:   2020-03-30 11:53:50 -0400
+categories:
+tags:
+---
+## Highlights
+- Started consulting providing Quality manager services with a focus on medical device startups.
+1. Focus on Quality Management System development and deployment
+2. Implementing Quality Governance
+3. Focusing on ISO13485, 21 CFR Part 820, Part 11, 210/211, and NUREG 1556.
+
+## Reading
+- [x] Think and Grow Rich by Napoleon Hill
+- [x] 10% Happier by Dan Harris
+- [x] Algorithms to Live By by Brian Christian, Tom Griffiths

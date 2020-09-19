@@ -1,0 +1,24 @@
+---
+title:  "Summary of 2020-April"
+date:   2020-04-30 11:53:50 -0400
+categories:
+tags:
+---
+## Highlights
+- Due to the recent issues and security concerns with [Zoom](https://zoom.us), I spun my own [Jitsi server](https://jitsi.tomrhudson.com).
+- I relocated therefore I upgraded a few items in the [homelab](https://www.reddit.com/r/homelab/). Current setup includes...
+1. [pfSense XG-7100](https://www.pfsense.org) - for firewall and an intrusion prevention system
+2. [UniFi Dream Machine Pro](https://store.ui.com/collections/unifi-network-routing-switching/products/udm-pro)
+3. [UniFi Switch 24 PoE Gen2](https://store.ui.com/collections/routing-switching/products/usw-24-poe)
+4. [US-8-60W](https://www.ui.com/unifi-switching/unifi-switch-8/)
+5. [USW-Flex-Mini](https://store.ui.com/collections/unifi-network-routing-switching/products/usw-flex-mini)
+6. [G4-Pro](https://www.ui.com/unifi-video/unifi-video-camera-g4-pro/)
+7. [multiple UAP-nanoHD](https://unifi-nanohd.ui.com)
+8. [Raspberry Pis](https://www.raspberrypi.org) running [Pi-hole](https://pi-hole.net)
+9. Dell 9020M running Ubuntu, Docker, and a few VMs for testing. I've been testing Pi-hole to compare it to pfBlockerNG-devel from pfSense.
+
+## Reading
+- [x] Gandhi the Man by Eknath Easwaran
+- [x] Strength in the Storm by Eknath Easwaran
+- [x] Renewal by Eknath Easwaran
+- [x] Climbing the Blue Mountain by Eknath Easwaran

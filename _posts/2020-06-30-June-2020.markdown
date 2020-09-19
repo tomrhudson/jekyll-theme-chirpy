@@ -1,0 +1,14 @@
+---
+title:  "Summary of 2020-June"
+date:   2020-06-30 11:53:50 -0400
+categories:
+tags:
+---
+## Highlights
+- Retired my pfSense XG-7100 and moved DHCP and IPS over to Unifi Dream Machine Pro
+
+## Reading
+- [x] Awaken the Giant Within by Tony Robbins
+- [x] Essence of the Upanishads by Eknath Easwaran
+- [x] The 3-Day Effect by Florence Williams
+- [x] Conquest of Mind by Eknath Easwaran

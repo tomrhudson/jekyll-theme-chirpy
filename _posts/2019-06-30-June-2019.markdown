@@ -1,0 +1,11 @@
+---
+title:  "Summary of 2019-June"
+date:   2019-06-30 11:53:50 -0400
+categories:
+tags:
+---
+## Highlights
+- Started consulting providing Virtual CIO services with a focus on medical device startups.
+1. Focus on IT Policy & Procedure Development
+2. Implementing IT Governance
+3. Developing IT Strategic Roadmaps aligned with Business Strategic Imperatives

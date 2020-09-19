@@ -1,0 +1,19 @@
+---
+title:  "Summary of 2020-August"
+date:   2020-08-31 11:53:50 -0400
+categories:
+tags:
+---
+## Highlights
+- Accepted into Voyage 23 Chingu Project which starts on 31-August-2020.
+- Submitted my [solo project](https://github.com/tomrhudson/soloproject-tier1-favfonts) for the 4-week programming sprint put on my [Chingu](https://chingu.io) and it was accepted!
+- Looking into ways to contribute to open source projects. Below are a few ideas that I've complied and a resource that I've come across.
+1. [CodeTriage](https://www.codetriage.com)
+2. Contribute to projects that I already use (e.g., express, body-parser, ejs, etc.)
+3. Contributions can be to documentation, code, etc.
+
+## Reading
+- [x] The Moral Landscape by Sam Harris
+- [x] Marriage and Lasting Relationships with Asperger's Syndrome by Eva A. Mendes
+- [x] Mantra: Sacred Words of Power by Thomas Ashley-Farrand
+- [x] The 33 Strategies of War by Robert Greene

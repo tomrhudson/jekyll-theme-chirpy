@@ -1,0 +1,16 @@
+---
+title:  "Summary of 2020-July"
+date:   2020-07-31 11:53:50 -0400
+categories:
+tags:
+---
+## Highlights
+- Accepted into the [Chingu Explorer](https://chingu.io) cohort session for August 2020.
+- Completed my workshop series with the State of New Hampshire on *Being Present: Mindfulness Activities to Help Focus Workshop Participants*.
+- Started to improve my skills as a full-stack developer primarily using the [MERN stack](https://www.mongodb.com/mern-stack).
+- Wrote first article, *How I Found the 3 Meditation Styles That Work for Me* on [RoundGlass](https://collective.round.glass/round_glass/how-i-found-the-3-meditat).
+
+## Reading
+- [x] Love Is Not Enough by Mark Manson
+- [x] Everything is F*cked by Mark Manson
+- [x] Build a Better Brain by Peter Hollins

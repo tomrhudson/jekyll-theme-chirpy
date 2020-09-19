@@ -1,0 +1,16 @@
+---
+title:  "Summary of 2020-May"
+date:   2020-05-31 11:53:50 -0400
+categories:
+tags:
+---
+## Highlights
+- Obtained a certification in Yin Yoga.
+- VLAN setup on UniFi Dream Machine Pro
+1. VLAN: Guest Network
+2. VLAN: Home Network
+3. VLAN: IoT Network
+4. VLAN: NoT Network
+
+## Reading
+- [x] The Dhammapada by Eknath Easwaran
