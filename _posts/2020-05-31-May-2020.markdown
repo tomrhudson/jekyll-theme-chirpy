@@ -1,8 +1,8 @@
 ---
 title:  "Summary of 2020-May"
 date:   2020-05-31 11:53:50 -0400
-categories:
-tags:
+categories: [Homelab]
+tags: [networking, pfsense, unifi, ubiquiti]
 ---
 ## Highlights
 - Obtained a certification in Yin Yoga.

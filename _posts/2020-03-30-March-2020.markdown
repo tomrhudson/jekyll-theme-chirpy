@@ -1,8 +1,8 @@
 ---
 title:  "Summary of 2020-March"
 date:   2020-03-30 11:53:50 -0400
-categories:
-tags:
+categories: [Consulting]
+tags: [regulations, iso13485, cfr, nureg]
 ---
 ## Highlights
 - Started consulting providing Quality manager services with a focus on medical device startups.

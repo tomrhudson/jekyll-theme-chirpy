@@ -1,8 +1,8 @@
 ---
 title:  "Summary of 2020-August"
 date:   2020-08-31 11:53:50 -0400
-categories:
-tags:
+categories: [Consulting]
+tags: [programming, chingu, "open source"]
 ---
 ## Highlights
 - Accepted into Voyage 23 Chingu Project which starts on 31-August-2020.

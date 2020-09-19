@@ -1,8 +1,8 @@
 ---
 title:  "Summary of 2020-June"
 date:   2020-06-30 11:53:50 -0400
-categories:
-tags:
+categories: [Homelab]
+tags: [networking, pfsense, unifi, ubiquiti]
 ---
 ## Highlights
 - Retired my pfSense XG-7100 and moved DHCP and IPS over to Unifi Dream Machine Pro

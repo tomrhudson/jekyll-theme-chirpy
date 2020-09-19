@@ -1,8 +1,8 @@
 ---
 title:  "Summary of 2020-October"
 date:   2020-10-31 11:53:50 -0400
-categories:
-tags:
+categories: [Nature]
+tags: [rewilding, nature, chingu, programming, iso13485, certification]
 ---
 ## Highlights
 - Attended a 5-day [rewilding intensive](https://micahmortali.com/rewilding/) in the Berkshires of Western Massachusetts

@@ -1,8 +1,8 @@
 ---
 title:  "Summary of 2019-December"
 date:   2019-12-31 11:53:50 -0400
-categories:
-tags:
+categories: [Consulting]
+tags: [certification, marketing, "social media"]
 ---
 ## Highlights
 - Earned 3 certifications through [DigitalMarketer](https://www.digitalmarketer.com)

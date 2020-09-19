@@ -1,8 +1,8 @@
 ---
 title:  "Summary of 2019-October"
 date:   2019-10-31 11:53:50 -0400
-categories:
-tags:
+categories: ["Mental Health"]
+tags: [meditation, photoshoot]
 ---
 ## Highlights
 - Become a certified Primordial Sound Meditation Teacher through [Chopra](https://www.chopra.com).

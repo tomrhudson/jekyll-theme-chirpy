@@ -1,8 +1,8 @@
 ---
 title:  "Summary of 2020-April"
 date:   2020-04-30 11:53:50 -0400
-categories:
-tags:
+categories: [Homelab]
+tags: [networking, pfsense, unifi, ubiquiti, jitsi, zoom, raspberrypi, pi-hole]
 ---
 ## Highlights
 - Due to the recent issues and security concerns with [Zoom](https://zoom.us), I spun my own [Jitsi server](https://jitsi.tomrhudson.com).

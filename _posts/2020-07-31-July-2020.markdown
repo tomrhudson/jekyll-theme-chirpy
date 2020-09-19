@@ -1,8 +1,8 @@
 ---
 title:  "Summary of 2020-July"
 date:   2020-07-31 11:53:50 -0400
-categories:
-tags:
+categories: [Consulting]
+tags: [programming, chingu, mindfulness, MERN, meditation]
 ---
 ## Highlights
 - Accepted into the [Chingu Explorer](https://chingu.io) cohort session for August 2020.

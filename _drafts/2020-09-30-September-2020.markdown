@@ -1,8 +1,8 @@
 ---
 title:  "Summary of 2020-September"
 date:   2020-09-30 11:53:50 -0400
-categories:
-tags:
+categories: [Consulting]
+tags: [programming, chingu, "rapid skill acquistion", colebak, typing, certification, yoga]
 ---
 ## Highlights
 - Started my first voyage project with 3 other developers through [Chingu](https://chingu.io). We have decided to build a [weather application](https://github.com/chingu-voyages/v23-toucans-team-02) using HTML, CSS, JavaScript, jQuery, and multiple APIs.

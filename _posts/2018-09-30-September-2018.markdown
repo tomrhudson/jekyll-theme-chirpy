@@ -1,8 +1,8 @@
 ---
 title:  "Summary of 2018-September"
 date:   2018-09-30 11:53:50 -0400
-categories: [Yoga]
-tags: certification
+categories: ["Physical Health"]
+tags: [certification, yoga]
 ---
 ## Highlights
 - Completed my first 200-hour yoga teacher training from [YogaLife Institute of New Hampshire](http://www.yogalifenh.com).

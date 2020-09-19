@@ -1,8 +1,8 @@
 ---
 title:  "Summary of 2019-May"
 date:   2019-05-31 11:53:50 -0400
-categories:
-tags:
+categories: ["Physical Health"]
+tags: [certification, reiki, nature, "first aid"]
 ---
 ## Highlights
 - Became certified as a Reiki Master & Teacher.
