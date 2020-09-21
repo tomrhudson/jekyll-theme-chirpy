@@ -1,0 +1,56 @@
+---
+title:  "Books Read in 2020"
+date:   2020-12-31 11:53:50 -0400
+categories: [Books]
+tags: [reading, books, education]
+---
+## Highlights
+
+## January
+- [x] CompTIA Security+ by Darril Gibson
+
+## February
+- [x] Office Kaizen by William Lareau
+- [x] Surive! by Les Stroud
+
+## March
+- [x] Think and Grow Rich by Napoleon Hill
+- [x] 10% Happier by Dan Harris
+- [x] Algorithms to Live By by Brian Christian, Tom Griffiths
+
+## April
+- [x] Gandhi the Man by Eknath Easwaran
+- [x] Strength in the Storm by Eknath Easwaran
+- [x] Renewal by Eknath Easwaran
+- [x] Climbing the Blue Mountain by Eknath Easwaran
+
+## May
+- [x] The Dhammapada by Eknath Easwaran
+
+## June
+- [x] Awaken the Giant Within by Tony Robbins
+- [x] Essence of the Upanishads by Eknath Easwaran
+- [x] The 3-Day Effect by Florence Williams
+- [x] Conquest of Mind by Eknath Easwaran
+
+## July
+- [x] Love Is Not Enough by Mark Manson
+- [x] Everything is F*cked by Mark Manson
+- [x] Build a Better Brain by Peter Hollins
+
+## August
+- [x] The Moral Landscape by Sam Harris
+- [x] Marriage and Lasting Relationships with Asperger's Syndrome by Eva A. Mendes
+- [x] Mantra: Sacred Words of Power by Thomas Ashley-Farrand
+- [x] The 33 Strategies of War by Robert Greene
+
+## September
+- [x] Travels by Michael Chichton
+- [x] The First 20 Hours by Josh Kaufman
+- [ ] Empire of the Summer Moon by S.C. Gwyne
+
+## October
+
+## November
+
+## December

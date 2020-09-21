@@ -7,7 +7,7 @@ tags: [programming, chingu, "rapid skill acquistion", colebak, typing, certifica
 ## Highlights
 - Started my first voyage project with 3 other developers through [Chingu](https://chingu.io). We have decided to build a [weather application](https://github.com/chingu-voyages/v23-toucans-team-02) using HTML, CSS, JavaScript, jQuery, and multiple APIs.
 - Obtained my 500-hour Yoga Certification from [Yoga Life Institute of New Hampshire](http://www.yogalifenh.com).
-- Assited my brother-in-law in setting up his Unifi system including multiple access points and a CloudKey Gen 2 controller.
+- Assisted my brother-in-law in setting up his Unifi system including multiple access points and a CloudKey Gen 2 controller.
 - About 10-years ago a friend of mine switched from QWERTY to the Dvorak keyboard layout. I thought it was insane. Fast forward to today and since reading [The First 20 Hours by Josh Kaufman](https://tinyurl.com/yyb825uf), I'm convinced to switch. I'll be switching to the [Colemak](https://colemak.com) keyboard layout. A few metrics and my plan is below:
 
 ### Typing
