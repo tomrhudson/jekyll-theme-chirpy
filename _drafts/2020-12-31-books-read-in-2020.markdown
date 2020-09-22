@@ -4,14 +4,16 @@ date:   2020-12-31 11:53:50 -0400
 categories: [Books]
 tags: [reading, books, education]
 ---
-## Highlights
+## Books Read in 2020
 
 ## January
 - [x] CompTIA Security+ by Darril Gibson
+- [x] Tom Brown's Science and Art of Tracking by Tom Brown, Jr.
 
 ## February
 - [x] Office Kaizen by William Lareau
 - [x] Surive! by Les Stroud
+- [x] Mike Meyer's CompTIA Security+ Certification Guide, Second Edition
 
 ## March
 - [x] Think and Grow Rich by Napoleon Hill
