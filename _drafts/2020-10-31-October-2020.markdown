@@ -6,8 +6,10 @@ tags: [rewilding, nature, chingu, programming, iso13485, certification]
 ---
 ## Highlights
 - Attended a 5-day [rewilding intensive](https://micahmortali.com/rewilding/) in the Berkshires of Western Massachusetts
-- Completed my first Voyage with [Chingu](https://chingu.io) with a team of 2 other developers; the project can be [found here](https://github.com/chingu-voyages/v23-toucans-team-02). Live website of the project can be [found here](https://v23weather.netlify.app/).
-- Obtained ISO13485:2016 Certified Internal Auditor from [ASQ](https://asq.org)
+- Completed my first Voyage with [Chingu](https://chingu.io) with a team of ~~3~~, ~~2~~, no 1 other developer; the project can be [found here](https://github.com/chingu-voyages/v23-toucans-team-02). Live website of the project can be [found here](https://v23weather.netlify.app/).
+- Obtained ISO13485:2016 Certified Internal Auditor from [ASQ](https://asq.org); I had this in 2009, however, the standard had been revised and it's relevant to my work.
 
 ## Reading
-- [ ]
+- [x] Empire of the Summer Moon by S.C. Gwyne
+- [ ] Principles: Life and Work by Ray Dalio
+- [ ] Atomic Habits by James Clear

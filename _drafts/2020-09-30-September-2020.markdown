@@ -15,7 +15,7 @@ tags: [programming, chingu, certification, yoga]
 - UniFi CloudKey Gen2
 - UniFi 24 Port Gen 2 Switch
 - 4, UniFi nanoHD access points
-- UniFi EdgeRouter 4 (part of the Verzion FiOS package)
+- UniFi EdgeRouter 4 (part of the Verizon FiOS package)
 - 2, Raspberry Pi running on Ubuntu
 - We will finish this off next month running a few 100 feet of network cables to hardwire a few locations in the house.
 
@@ -23,4 +23,3 @@ tags: [programming, chingu, certification, yoga]
 ## Reading
 - [x] Travels by Michael Chichton
 - [x] The First 20 Hours by Josh Kaufman
-- [ ] Empire of the Summer Moon by S.C. Gwyne
