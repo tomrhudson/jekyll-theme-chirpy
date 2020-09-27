@@ -32,3 +32,8 @@ Finally, I do software development. If you're interested to see what I'm working
 To get in touch, you can send me an [email](mailto:tom@tomrhudson.com) or contact me on [Twitter](https://twitter.com/thetomhudson).
 
 Thanks for stopping by.
+
+### RESOURCES
+
+[Mediation * Nature * Yoga](https://tom-hudson.com)
+[My Own Jitsi Server](https://jitsi.tomrhudson.com)
