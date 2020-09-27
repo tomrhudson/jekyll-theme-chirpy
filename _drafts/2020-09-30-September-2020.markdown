@@ -10,6 +10,15 @@ tags: [programming, chingu, certification, yoga]
 - Assisted my brother-in-law in setting up his Unifi system including multiple access points and a CloudKey Gen 2 controller.
 - My Chingu team started out, including me, with 4 developers. The project has 6 sprints, each a week long. We lost our first developer the start of Sprint 2, and our second developer on Sprint 4 (21-Sept-2020). We have now reviewed the scope that we want to work with these final 2 weeks of the project, of which 5 straight days I will be unavailable.
 
+### Another Home Network Buildout
+- Started building out my brother-in-laws home network. He has Verizon FiOS and we've got the following up and running.
+- UniFi CloudKey Gen2
+- UniFi 24 Port Gen 2 Switch
+- 4, UniFi nanoHD access points
+- UniFi EdgeRouter 4 (part of the Verzion FiOS package)
+- 2, Raspberry Pi running on Ubuntu
+- We will finish this off next month running a few 100 feet of network cables to hardwire a few locations in the house.
+
 
 ## Reading
 - [x] Travels by Michael Chichton
