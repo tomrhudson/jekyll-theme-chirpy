@@ -11,5 +11,5 @@ tags: [rewilding, nature, chingu, programming, iso13485, certification]
 
 ## Reading
 - [x] Empire of the Summer Moon by S.C. Gwyne
-- [ ] Principles: Life and Work by Ray Dalio
+- [x] Principles: Life and Work by Ray Dalio
 - [ ] Atomic Habits by James Clear
