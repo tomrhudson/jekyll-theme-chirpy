@@ -13,4 +13,4 @@ tags: [rewilding, nature, chingu, programming, iso13485, certification]
 - [x] Empire of the Summer Moon by S.C. Gwyne
 - [x] Principles: Life and Work by Ray Dalio
 - [x] Sapiens: A Brief History of Humankind by Yuval Noah Harari
-- [ ] Atomic Habits by James Clear
+- [x] Trickster Makes This World: Mischief, Myth and Art by Lewis Hyde
