@@ -5,6 +5,8 @@ categories: [Books]
 tags: [reading, books, education]
 ---
 ## Books Read in 2020
+I very well may have missed some of the books that I read in the first quarter of 2020, however, I feel that this is a good representation.
+
 
 ## January
 - [x] CompTIA Security+ by Darril Gibson
@@ -51,7 +53,13 @@ tags: [reading, books, education]
 - [x] The First 20 Hours by Josh Kaufman
 
 ## October
+- [x] Empire of the Summer Moon by S.C. Gwyne
+- [x] Principles: Life and Work by Ray Dalio
+- [x] Sapiens: A Brief History of Humankind by Yuval Noah Harari
+- [x] Trickster Makes This World: Mischief, Myth and Art by Lewis Hyde
 
 ## November
+- [x] Atomic Habits by James Clear
+- [x] Untamed by Glennon Doyle
 
 ## December

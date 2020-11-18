@@ -5,9 +5,9 @@ categories:
 tags:
 ---
 ## Highlights
-- Killington
+- Spent the last month in [Killington, Vermont](https://en.wikipedia.org/wiki/Killington,_Vermont) and did a significant amount of hiking on the [Appalachian Trail](https://en.wikipedia.org/wiki/Appalachian_Trail), the [Long Trail](https://en.wikipedia.org/wiki/Long_Trail) and other local trails; thanks to [Green Mountain Club](https://www.greenmountainclub.org) for all of their efforts in trail maintenance.
+- Updated certifications in: HIPAA and Fire & Electrical Safety
 
 ## Reading
-- [ ] Atomic Habits by James Clear
-- [ ] Untamed by Glennon Doyle
-- [ ] Fingerprints of the Gods by Graham Hancock
+- [x] Atomic Habits by James Clear
+- [x] Untamed by Glennon Doyle
