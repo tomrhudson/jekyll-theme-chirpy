@@ -61,5 +61,6 @@ I very well may have missed some of the books that I read in the first quarter o
 ## November
 - [x] Atomic Habits by James Clear
 - [x] Untamed by Glennon Doyle
+- [x] The Immortality Key by Brian C. Muraresku
 
 ## December

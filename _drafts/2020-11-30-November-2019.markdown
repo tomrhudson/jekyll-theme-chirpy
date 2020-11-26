@@ -13,3 +13,4 @@ tags:
 ## Reading
 - [x] Atomic Habits by James Clear
 - [x] Untamed by Glennon Doyle
+- [x] The Immortality Key by Brian C. Muraresku
