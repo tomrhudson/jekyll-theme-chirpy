@@ -9,7 +9,6 @@ tags:
 - Updated certifications in: HIPAA, Fire & Electrical Safety, Aseptic Controls
 - Attended 10+ hour workshop, "Grandfather's Philosophy on Aging" offered by [Tom Brown Jr's Tracker School](https://www.trackerschool.com)
 
-
 ## Reading
 - [x] Atomic Habits by James Clear
 - [x] Untamed by Glennon Doyle
