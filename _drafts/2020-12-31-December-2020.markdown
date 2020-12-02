@@ -9,5 +9,6 @@ tags:
 
 
 ## Reading
-- [ ] Autobiography of a Yogi by Paramahansa Yogananda
+- [x] Autobiography of a Yogi by Paramahansa Yogananda
 - [ ] Fingerprints of the Gods by Graham Hancock
+- [x] The 48 Laws of Power by Robert Greene
