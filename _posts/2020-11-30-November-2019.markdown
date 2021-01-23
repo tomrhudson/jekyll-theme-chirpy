@@ -1,8 +1,8 @@
 ---
 title:  "Summary of 2020-November"
 date:   2020-11-30 11:53:50 -0400
-categories:
-tags:
+categories: [Nature]
+tags: [hiking, nature, certification]
 ---
 ## Highlights
 - Spent the last month in [Killington, Vermont](https://en.wikipedia.org/wiki/Killington,_Vermont) and did a significant amount of hiking on the [Appalachian Trail](https://en.wikipedia.org/wiki/Appalachian_Trail), the [Long Trail](https://en.wikipedia.org/wiki/Long_Trail) and other local trails; thanks to [Green Mountain Club](https://www.greenmountainclub.org) for all of their efforts in trail maintenance.

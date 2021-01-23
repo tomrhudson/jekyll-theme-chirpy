@@ -1,8 +1,8 @@
 ---
 title:  "Summary of 2020-December"
 date:   2020-12-31 11:53:50 -0400
-categories:
-tags:
+categories: [Growth]
+tags: [goals, mastermind, spiritual]
 ---
 ## Highlights
 - Developed personal goals for 2021; with details for Q1 2021
