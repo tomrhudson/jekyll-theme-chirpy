@@ -1,14 +1,10 @@
 ---
 title:  "Summary of 2021-January"
-date:   2021-01-31 11:53:50 -0400
+date:   2021-01-31 14:53:50 -0400
 categories: [Growth]
 tags: [certification, mastermind, nomad]
 ---
 ## Highlights
 - Started the [Perfect Health Certification](https://chopra.com/certifications/perfect-health-program) program through [Chopra](https://www.chopra.com).
-- Started a mastermind group with some great friends.
-- After 3+ months of being a nomad, settled in Portsmouth, New Hampshire
-- 
-
-## Reading
-- [x] x
+- Started a weekly mastermind group.
+- After 3+ months of being a nomad, settled in Portsmouth, New Hampshire.
