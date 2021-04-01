@@ -2,11 +2,7 @@
 title:  "Summary of 2021-March"
 date:   2021-03-31 11:53:50 -0400
 categories: [Growth]
-tags: [certification, mastermind, nomad]
+tags: [certification]
 ---
 ## Highlights
-- x
--
-
-## Reading
-- [x] x
+- Completed 10-day intensive: Breakthrough Leadership through Rise Academy

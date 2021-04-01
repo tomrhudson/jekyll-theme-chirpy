@@ -1,0 +1,11 @@
+---
+title:  "Summary of 2021-April"
+date:   2021-04-30 11:53:50 -0400
+categories: [Growth]
+tags: [certification, mastermind, nomad]
+---
+## Highlights
+-
+
+## Reading
+- [x] x
